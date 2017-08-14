@@ -1,1 +1,1 @@
-"# Talis-Aspire" 
+This building block can be used with the Talis Aspire reading list application. It defines a course tool that can be added to the Table of Contents (or placed in a content folder) and a module that gathers together all an individuals lists. A module is also available to use in a course (and thatonly display the list for that course --- if a list is available)
